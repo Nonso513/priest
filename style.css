@@ -68,9 +68,10 @@ h2{
     position: relative;
     align-content: center;
     align-items: center;
-    border-radius: 20px;
     margin: 0px;
 }
+.services{
+    background-color: rgb(228, 185, 161);
 .team{
     border-radius: 20px;
 }
