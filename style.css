@@ -84,6 +84,8 @@ h2{
     align-items: center;
     border-radius: 20px;
     padding: 20px;
+    background-color: rgb(228, 185, 161);
+}
 }
 
 .me {
