@@ -86,6 +86,9 @@ h2{
     padding-top: 10px;
     background-color: rgb(228, 185, 161);
 }
+.services{
+    background-color: rgb(228, 185, 161);
+}
 .me {
     display: flex;
     flex-wrap: wrap;
