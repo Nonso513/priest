@@ -96,9 +96,6 @@ h2{
     justify-content: center;
     justify-self:center;
     justify-content: center;
-    padding-left: 20px;
-    padding-right: 10px;
-    padding-top: 10px;
 }
 .me img {
     width: 300px;
@@ -122,9 +119,6 @@ h2{
     position: relative;
     align-content: center;
     align-items: center;
-    padding-left: 20px;
-    padding-right: 10px;
-    padding-top: 10px;
 }
 .project{
     background-color: rgb(228, 185, 161);
