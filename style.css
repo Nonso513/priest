@@ -89,8 +89,7 @@ h2{
 }
 .services{
     background-color: rgb(228, 185, 161);
-    margin-bottom: -25px
-
+}
 .me {
     display: flex;
     flex-wrap: wrap;
