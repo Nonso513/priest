@@ -149,11 +149,6 @@ footer{
         text-align: center;
         align-items: center;
         justify-content: center;
-        padding-top: -30px;
-        padding-bottom: -30px;
-        margin-left: 10px;
-        margin-right: 10px;
-        border-radius: 10px;
     }
     .me {
         display: block;
@@ -193,11 +188,6 @@ footer{
         text-align: center;
         line-height: 20px;
         float: left;
-         margin-right: 5px;
-        margin-top: -10px;
-        border-radius: 10px;
-        font-weight: 900;
-        padding: 15px;
     }
     .menu.active{
         left: 0;
